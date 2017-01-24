@@ -1,0 +1,6 @@
+compiled/
+private/compiled/
+*~
+private/*~
+.DS_Store
+
